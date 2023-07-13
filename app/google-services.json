@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074549926188",
+    "project_id": "hostelmate-9a8ee",
+    "storage_bucket": "hostelmate-9a8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074549926188:android:578d03b1b2da09654ee489",
+        "android_client_info": {
+          "package_name": "com.example.pdf_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074549926188-3pj88kaqq4sqihc1ep9peaeacot24443.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBghtPdGmGIMwLiqkGTUr4Sj0RaDgkIRwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074549926188-3pj88kaqq4sqihc1ep9peaeacot24443.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
